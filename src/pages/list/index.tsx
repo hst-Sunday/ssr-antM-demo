@@ -1,4 +1,4 @@
-import { InfiniteScroll, List } from 'antd-mobile';
+import { InfiniteScroll, List } from 'antd-mobile/2x';
 import React, { useState } from 'react';
 import { history } from 'umi';
 
